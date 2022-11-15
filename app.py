@@ -1,5 +1,4 @@
 import pickle
-import requests
 from PIL import Image
 
 import pandas as pd
